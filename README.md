@@ -11,6 +11,11 @@ Inactive links will be added the evening before the following day's class at the
 * Day 3: Visualizing and Analyzing
 * Day 4: Predictive Modeling
 
+## Run online
+You can run these notebooks online, without installing anything, using Binder! Just click the button below to launch. Note that some cells may fail when running in Binder, and execution will generally be much slower.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tyarkoni/SSI2019/master)
+
 ## Setup
 To get the most out of the course, you'll probably want to show up to class with a laptop set up with a working scientific Python environment. The easiest way to accomplish this is to install the [Anaconda distribution](https://www.anaconda.com/download), available for all major operating systems. You can install anaconda from:
 
