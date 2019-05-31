@@ -9,7 +9,7 @@ Inactive links will be added the evening before the following day's class at the
 * [Day 1: Data Science in Python](https://github.com/tyarkoni/SSI2019/blob/master/notebooks/Day-1_Data-science-in-Python.ipynb)
 * [Day 2: Data Wrangling](https://github.com/tyarkoni/SSI2019/blob/master/notebooks/Day-2_Data-wrangling.ipynb)
 * [Day 3: Exploring and Analyzing Data](https://github.com/tyarkoni/SSI2019/blob/master/notebooks/Day-3_Exploring-and-analyzing-data-in-Python.ipynb)
-* Day 4: Predictive Modeling
+* [Day 4: Predictive Modeling](https://github.com/tyarkoni/SSI2019/blob/master/notebooks/Day-4_Machine-learning-in-Python.ipynb)
 
 ## Run online
 You can run these notebooks online, without installing anything, using Binder! Just click the button below to launch. Note that some cells may fail when running in Binder, and execution will generally be much slower.
